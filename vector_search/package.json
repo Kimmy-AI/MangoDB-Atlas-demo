@@ -1,0 +1,16 @@
+{
+  "name": "findSimilarDocumentsByEmbedding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findSimilarDocumentsByEmbedding.js",
+  "scripts": {
+    "test": "node ./findSimilarDocumentsByEmbedding.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.3.0"
+  }
+}
